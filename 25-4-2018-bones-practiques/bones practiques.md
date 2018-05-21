@@ -41,7 +41,9 @@ a speech or act that attempts to persuade someone to buy or do something.
 **Què és?**
 
 ~~~
-El projecte es fa en dues fases: la primera oberta i amb poc detall i la segona pautada i de caire més pràctic
+El projecte es fa en dues fases:
+- La primera oberta i amb poc detall.
+- La segona pautada i de caire més pràctic
 ~~~
 
 - Plantejament del Projecte amb solució teòrica.
