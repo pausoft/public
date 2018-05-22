@@ -170,6 +170,7 @@ http://www.presentable.es/consejos-practicos/4-tecnicas-para-improvisar-en-publi
 
 ## Kanban i Scrum
 
+- Presentació: Scrum en 5 minuts https://prezi.com/yb2uleyhubl7/scrum-en-5-minutos/
 - Curs i pràctic de Scrum (projecte software)
 https://www.youtube.com/channel/UC_EcRxxa3ohH_3B011PXsLA/playlists
 - Do better scrum: https://www.agile42.com/en/agile-info-center/do-better-scrum/
